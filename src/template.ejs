@@ -1,0 +1,133 @@
+<h3>Github动态报告</h3>
+
+<p>最近更新的时间:<%= updatedAt %>（每天早上 5:00 自动更新）</p>
+<p><%= ipinfo %></p>
+
+<hr />
+
+<% 
+  // 获取当前时间
+  const now = new Date();
+
+  // 过滤出近三天更新的仓库
+  const recentRepos = githubRepos.filter(repo => {
+    const updatedAt = new Date(repo.updated_at);
+    const diffDays = Math.floor((now - updatedAt) / (1000 * 60 * 60 * 24));
+    return diffDays <= 3;
+  });
+
+  // 过滤出近三天有更新的star仓库
+  const recentStarRepos = githubStarRepos.filter(repo => {
+    const updatedAt = new Date(repo.updated_at);
+    const diffDays = Math.floor((now - updatedAt) / (1000 * 60 * 60 * 24));
+    return diffDays <= 3;
+  });
+
+  const prRepos = pullRequests
+%>
+
+<% if (recentRepos.length > 0) { %>
+  <table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <th colspan="5">近三天有更新变动的 Github 仓库:</th>
+    </tr>
+    <tr>
+      <td><strong>Repo name</strong></td>
+      <td><strong>Owner</strong></td>
+      <td><strong>License</strong></td>
+      <td><strong>Open issues</strong></td>
+      <td><strong>Go To</strong></td>
+    </tr>
+    <% recentRepos.forEach(function(repo) { %>
+      <tr>
+        <td><%= repo.name %></td>
+        <td>
+            <img loading="lazy" width="16" height="16" src="<%= repo.owner.avatar_url %>" alt="<%= repo.owner.login %>" />
+            <%= repo.owner.login %>
+        </td>
+        <td><%= repo.license ? repo.license.spdx_id : 'None' %></td>
+        <td><%= repo.open_issues_count %></td>
+        <td><a href="<%= repo.html_url %>" target="_blank"><button>Click</button></a></td>
+      </tr>
+    <% }) %>
+  </table>
+<% } else { %>
+  <p>暂无近三天更新的仓库。</p>
+<% } %>
+
+<hr />
+
+<% if (recentStarRepos.length > 0) { %>
+  <table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <th colspan="5">近三天有更新变动的 Github Star 仓库:</th>
+    </tr>
+    <tr>
+      <td><strong>Repo name</strong></td>
+      <td><strong>Owner</strong></td>
+      <td><strong>License</strong></td>
+      <td><strong>Open issues</strong></td>
+      <td><strong>Forks num</strong></td>
+      <td><strong>Go To</strong></td>
+    </tr>
+    <% recentStarRepos.forEach(function(repo) { %>
+      <tr>
+        <td><%= repo.name %></td>
+        <td>
+            <img loading="lazy" width="16" height="16" src="<%= repo.owner.avatar_url %>" alt="<%= repo.owner.login %>" />
+            <%= repo.owner.login %>
+        </td>
+        <td><%= repo.license ? repo.license.spdx_id : 'None' %></td>
+        <td><%= repo.open_issues_count %></td>
+        <td><%= repo.forks %></td>
+        <td><a href="<%= repo.html_url %>" target="_blank"><button>Click</button></a></td>
+      </tr>
+    <% }) %>
+  </table>
+<% } else { %>
+  <p>暂无近三天更新的 Star 仓库。</p>
+<% } %>
+
+<hr />
+
+<% if (prRepos.length > 0) { %>
+  <table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <th colspan="5">
+        新未处理的Pull Requests:
+        <p>*Sponsor位置:绿色为Bot,蓝色是User</p>
+      </th>
+    </tr>
+    <tr>
+      <td><strong>PR Title</strong></td>
+      <td><strong>Sponsor</strong></td>
+      <td><strong>State</strong></td>
+      <td><strong>Created At</strong></td>
+      <td><strong>Go To</strong></td>
+    </tr>
+    <% prRepos.forEach(function(pr) { %>
+      <tr>
+        <td><%= pr.title %></td>
+        <td style="color: <%= pr.user.type === 'Bot' ? '#289847' : '#2d7cee' %> ">
+            <img loading="lazy" width="16" height="16" src="<%= pr.user.avatar_url %>" alt="<%= pr.user.login %>" />
+            <%= pr.user.login %>
+        </td>
+        <td><%= pr.state %></td>
+        <td><%= new Date(pr.created_at).toLocaleString() %></td>
+        <td><a href="<%= pr.html_url %>" target="_blank"><button>Click</button></a></td>
+      </tr>
+      <tr colspan="5">
+        <td>
+            <details>
+                <summary>PR详情</summary>
+                <div>
+                    <%= pr.body %>
+                </div>
+            </details>
+        </td>
+      </tr>
+    <% }) %>
+  </table>
+<% } else { %>
+    <p>暂无近三天更新的 Pull Requests。</p>
+<% } %>
