@@ -1,3 +1,12 @@
+<a href="https://github.com/xieleihan/githubDailyReport" target="_blank">
+  <img
+    src="https://socialify.git.ci/xieleihan/githubDailyReport/image?description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F57227318%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Light"
+    alt="githubDailyReport"
+    width="640"
+    height="320"
+  />
+</a>
+
 <h3>Github动态报告</h3>
 
 <p>最近更新的时间:<%= updatedAt %>（每天早上 5:00 自动更新）</p>
@@ -95,7 +104,8 @@
     <tr>
       <th colspan="5">
         新未处理的Pull Requests:
-        <p>*Sponsor位置:绿色为Bot,蓝色是User</p>
+        <br />
+        <span>*Sponsor位置:绿色为Bot,蓝色是User</span>
       </th>
     </tr>
     <tr>
@@ -117,7 +127,7 @@
         <td><a href="<%= pr.html_url %>" target="_blank"><button>Click</button></a></td>
       </tr>
       <tr colspan="5">
-        <td>
+        <td colspan="5">
             <details>
                 <summary>PR详情</summary>
                 <div>
@@ -131,3 +141,12 @@
 <% } else { %>
     <p>暂无近三天更新的 Pull Requests。</p>
 <% } %>
+
+<hr />
+
+<table>
+  <th>当前技术栈占比</th>
+  <tr>
+    <td></td>
+  </tr>
+</table>
