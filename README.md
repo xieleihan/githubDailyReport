@@ -2,8 +2,8 @@
   <img src="https://socialify.git.ci/xieleihan/githubDailyReport/image?description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F57227318%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Light" alt="githubDailyReport" width="640" height="320" />
 </a>
 <h3>Github动态报告</h3>
-<p>最近更新的时间:2025年06月18日 14时36分（每天早上 5:00 自动更新）</p>
-<p>当前Action服务器的IP地址是: 52.160.97.192, 位置在: 美国加利福尼亚州圣何塞 - 微软公司</p>
+<p>最近更新的时间:2025年06月18日 14时44分（每天早上 5:00 自动更新）</p>
+<p>当前Action服务器的IP地址是: 20.185.222.61, 位置在: 美国弗吉尼亚州华盛顿 - 微软公司</p>
 <hr  />
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
@@ -252,7 +252,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="shadcn-ui"  />
     shadcn-ui</td>
     <td>MIT</td>
-    <td>1833</td>
+    <td>1832</td>
     <td>6126</td>
     <td><a href="https://github.com/shadcn-ui/ui" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -353,7 +353,7 @@
     GoogleChrome</td>
     <td>Apache-2.0</td>
     <td>489</td>
-    <td>9517</td>
+    <td>9518</td>
     <td><a href="https://github.com/GoogleChrome/lighthouse" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -362,7 +362,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/22188121?v=4" alt="slab"  />
     slab</td>
     <td>BSD-3-Clause</td>
-    <td>558</td>
+    <td>559</td>
     <td>3509</td>
     <td><a href="https://github.com/slab/quill" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -542,7 +542,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/12101536?v=4" alt="ant-design"  />
     ant-design</td>
     <td>MIT</td>
-    <td>254</td>
+    <td>253</td>
     <td>2458</td>
     <td><a href="https://github.com/ant-design/ant-design-mobile" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -893,7 +893,7 @@
     comfyanonymous</td>
     <td>GPL-3.0</td>
     <td>2506</td>
-    <td>8843</td>
+    <td>8844</td>
     <td><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1213,7 +1213,7 @@
     mlabonne</td>
     <td>Apache-2.0</td>
     <td>63</td>
-    <td>5958</td>
+    <td>5959</td>
     <td><a href="https://github.com/mlabonne/llm-course" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1222,7 +1222,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/51735404?v=4" alt="milvus-io"  />
     milvus-io</td>
     <td>Apache-2.0</td>
-    <td>749</td>
+    <td>750</td>
     <td>3259</td>
     <td><a href="https://github.com/milvus-io/milvus" target="_blank"><button>Click</button></a></td>
   </tr>
