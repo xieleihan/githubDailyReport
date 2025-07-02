@@ -2,8 +2,8 @@
   <img src="https://socialify.git.ci/xieleihan/githubDailyReport/image?description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F57227318%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Light" alt="githubDailyReport" width="640" height="320" />
 </a>
 <h3>Github动态报告</h3>
-<p>最近更新的时间:2025年07月02日 05时06分（每天早上 5:00 自动更新）</p>
-<p>当前Action服务器的IP地址是: 172.191.125.37, 位置在: 美国弗吉尼亚州华盛顿 - 微软有限公司</p>
+<p>最近更新的时间:2025年07月02日 13时07分（每天早上 5:00 自动更新）</p>
+<p>当前Action服务器的IP地址是: 23.99.13.176, 位置在: 美国加利福尼亚州圣何塞 - 微软公司</p>
 <hr  />
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
@@ -49,6 +49,16 @@
     <td><strong>Go To</strong></td>
   </tr>
   <tr>
+    <td>autox-super-kit</td>
+    <td>
+    <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/205436357?v=4" alt="autox-community"  />
+    autox-community</td>
+    <td>None</td>
+    <td>0</td>
+    <td>29</td>
+    <td><a href="https://github.com/autox-community/autox-super-kit" target="_blank"><button>Click</button></a></td>
+  </tr>
+  <tr>
     <td>zustand</td>
     <td>
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/45790596?v=4" alt="pmndrs"  />
@@ -64,8 +74,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/161781182?v=4" alt="google-gemini"  />
     google-gemini</td>
     <td>Apache-2.0</td>
-    <td>865</td>
-    <td>3966</td>
+    <td>806</td>
+    <td>4044</td>
     <td><a href="https://github.com/google-gemini/gemini-cli" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -84,7 +94,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/6254238?v=4" alt="badges"  />
     badges</td>
     <td>CC0-1.0</td>
-    <td>377</td>
+    <td>378</td>
     <td>5545</td>
     <td><a href="https://github.com/badges/shields" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -94,8 +104,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/215780325?v=4" alt="OpenListTeam"  />
     OpenListTeam</td>
     <td>AGPL-3.0</td>
-    <td>63</td>
-    <td>641</td>
+    <td>64</td>
+    <td>643</td>
     <td><a href="https://github.com/OpenListTeam/OpenList" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -104,7 +114,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/30794937?v=4" alt="NervJS"  />
     NervJS</td>
     <td>NOASSERTION</td>
-    <td>1573</td>
+    <td>1574</td>
     <td>4849</td>
     <td><a href="https://github.com/NervJS/taro" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -124,7 +134,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/7392261?v=4" alt="NativeScript"  />
     NativeScript</td>
     <td>MIT</td>
-    <td>913</td>
+    <td>914</td>
     <td>1661</td>
     <td><a href="https://github.com/NativeScript/NativeScript" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -144,8 +154,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/18461506?v=4" alt="Tencent"  />
     Tencent</td>
     <td>NOASSERTION</td>
-    <td>440</td>
-    <td>636</td>
+    <td>441</td>
+    <td>637</td>
     <td><a href="https://github.com/Tencent/wujie" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -154,7 +164,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/166622089?v=4" alt="open-ani"  />
     open-ani</td>
     <td>AGPL-3.0</td>
-    <td>373</td>
+    <td>372</td>
     <td>196</td>
     <td><a href="https://github.com/open-ani/animeko" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -184,7 +194,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/34149896?v=4" alt="napi-rs"  />
     napi-rs</td>
     <td>NOASSERTION</td>
-    <td>234</td>
+    <td>233</td>
     <td>315</td>
     <td><a href="https://github.com/napi-rs/napi-rs" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -195,7 +205,7 @@
     exelban</td>
     <td>MIT</td>
     <td>26</td>
-    <td>1025</td>
+    <td>1026</td>
     <td><a href="https://github.com/exelban/stats" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -214,7 +224,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/182288589?v=4" alt="modelcontextprotocol"  />
     modelcontextprotocol</td>
     <td>MIT</td>
-    <td>276</td>
+    <td>277</td>
     <td>989</td>
     <td><a href="https://github.com/modelcontextprotocol/typescript-sdk" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -275,7 +285,7 @@
     vuejs</td>
     <td>MIT</td>
     <td>58</td>
-    <td>9473</td>
+    <td>9475</td>
     <td><a href="https://github.com/vuejs/awesome-vue" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -284,8 +294,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="shadcn-ui"  />
     shadcn-ui</td>
     <td>MIT</td>
-    <td>1722</td>
-    <td>6214</td>
+    <td>1723</td>
+    <td>6217</td>
     <td><a href="https://github.com/shadcn-ui/ui" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -294,7 +304,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/72518640?v=4" alt="TanStack"  />
     TanStack</td>
     <td>MIT</td>
-    <td>113</td>
+    <td>115</td>
     <td>3295</td>
     <td><a href="https://github.com/TanStack/query" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -304,7 +314,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/82039556?v=4" alt="duckdb"  />
     duckdb</td>
     <td>MIT</td>
-    <td>512</td>
+    <td>514</td>
     <td>2410</td>
     <td><a href="https://github.com/duckdb/duckdb" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -334,7 +344,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="microsoft"  />
     microsoft</td>
     <td>Apache-2.0</td>
-    <td>119</td>
+    <td>122</td>
     <td>657</td>
     <td><a href="https://github.com/microsoft/typescript-go" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -345,7 +355,7 @@
     LYiHub</td>
     <td>Apache-2.0</td>
     <td>6</td>
-    <td>100</td>
+    <td>101</td>
     <td><a href="https://github.com/LYiHub/liars-bar-llm" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -404,8 +414,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/48634587?v=4" alt="DavidHDev"  />
     DavidHDev</td>
     <td>NOASSERTION</td>
-    <td>4</td>
-    <td>617</td>
+    <td>5</td>
+    <td>620</td>
     <td><a href="https://github.com/DavidHDev/react-bits" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -425,7 +435,7 @@
     apache</td>
     <td>Apache-2.0</td>
     <td>2025</td>
-    <td>19749</td>
+    <td>19747</td>
     <td><a href="https://github.com/apache/echarts" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -434,8 +444,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/84441432?v=4" alt="motiondivision"  />
     motiondivision</td>
     <td>MIT</td>
-    <td>10</td>
-    <td>45</td>
+    <td>12</td>
+    <td>46</td>
     <td><a href="https://github.com/motiondivision/motion-vue" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -474,8 +484,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/149946238?v=4" alt="oxc-project"  />
     oxc-project</td>
     <td>MIT</td>
-    <td>205</td>
-    <td>602</td>
+    <td>210</td>
+    <td>604</td>
     <td><a href="https://github.com/oxc-project/oxc" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -514,8 +524,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="langchain-ai"  />
     langchain-ai</td>
     <td>MIT</td>
-    <td>210</td>
-    <td>2585</td>
+    <td>211</td>
+    <td>2584</td>
     <td><a href="https://github.com/langchain-ai/langchainjs" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -535,7 +545,7 @@
     SocialSisterYi</td>
     <td>NOASSERTION</td>
     <td>163</td>
-    <td>1945</td>
+    <td>1944</td>
     <td><a href="https://github.com/SocialSisterYi/bilibili-API-collect" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -555,7 +565,7 @@
     Vanessa219</td>
     <td>MIT</td>
     <td>99</td>
-    <td>943</td>
+    <td>944</td>
     <td><a href="https://github.com/Vanessa219/vditor" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -565,7 +575,7 @@
     babel</td>
     <td>MIT</td>
     <td>752</td>
-    <td>5722</td>
+    <td>5723</td>
     <td><a href="https://github.com/babel/babel" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -574,8 +584,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/12101536?v=4" alt="ant-design"  />
     ant-design</td>
     <td>MIT</td>
-    <td>258</td>
-    <td>2464</td>
+    <td>259</td>
+    <td>2465</td>
     <td><a href="https://github.com/ant-design/ant-design-mobile" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -604,7 +614,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="microsoft"  />
     microsoft</td>
     <td>MIT</td>
-    <td>1950</td>
+    <td>1951</td>
     <td>746</td>
     <td><a href="https://github.com/microsoft/microsoft-ui-xaml" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -614,7 +624,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/7342023?v=4" alt="saadeghi"  />
     saadeghi</td>
     <td>MIT</td>
-    <td>43</td>
+    <td>42</td>
     <td>1478</td>
     <td><a href="https://github.com/saadeghi/daisyui" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -634,8 +644,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/94954945?v=4" alt="rolldown"  />
     rolldown</td>
     <td>MIT</td>
-    <td>132</td>
-    <td>616</td>
+    <td>130</td>
+    <td>617</td>
     <td><a href="https://github.com/rolldown/rolldown" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -645,7 +655,7 @@
     tailwindlabs</td>
     <td>MIT</td>
     <td>83</td>
-    <td>4607</td>
+    <td>4608</td>
     <td><a href="https://github.com/tailwindlabs/tailwindcss" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -655,7 +665,7 @@
     jestjs</td>
     <td>MIT</td>
     <td>265</td>
-    <td>6562</td>
+    <td>6565</td>
     <td><a href="https://github.com/jestjs/jest" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -664,8 +674,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/69631?v=4" alt="facebook"  />
     facebook</td>
     <td>MIT</td>
-    <td>996</td>
-    <td>48816</td>
+    <td>997</td>
+    <td>48817</td>
     <td><a href="https://github.com/facebook/react" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -674,7 +684,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/69631?v=4" alt="facebook"  />
     facebook</td>
     <td>MIT</td>
-    <td>985</td>
+    <td>986</td>
     <td>24729</td>
     <td><a href="https://github.com/facebook/react-native" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -734,8 +744,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="microsoft"  />
     microsoft</td>
     <td>MIT</td>
-    <td>281</td>
-    <td>3114</td>
+    <td>282</td>
+    <td>3117</td>
     <td><a href="https://github.com/microsoft/markitdown" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -745,7 +755,7 @@
     yangzongzhuan</td>
     <td>MIT</td>
     <td>17</td>
-    <td>2077</td>
+    <td>2078</td>
     <td><a href="https://github.com/yangzongzhuan/RuoYi" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -755,7 +765,7 @@
     axios</td>
     <td>MIT</td>
     <td>684</td>
-    <td>11148</td>
+    <td>11149</td>
     <td><a href="https://github.com/axios/axios" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -785,7 +795,7 @@
     richards199999</td>
     <td>MIT</td>
     <td>1</td>
-    <td>1775</td>
+    <td>1773</td>
     <td><a href="https://github.com/richards199999/Thinking-Claude" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -794,8 +804,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/14101776?v=4" alt="flutter"  />
     flutter</td>
     <td>BSD-3-Clause</td>
-    <td>12631</td>
-    <td>28806</td>
+    <td>12629</td>
+    <td>28808</td>
     <td><a href="https://github.com/flutter/flutter" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -804,8 +814,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/12101536?v=4" alt="ant-design"  />
     ant-design</td>
     <td>MIT</td>
-    <td>1261</td>
-    <td>52835</td>
+    <td>1255</td>
+    <td>52838</td>
     <td><a href="https://github.com/ant-design/ant-design" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -855,7 +865,7 @@
     marktext</td>
     <td>MIT</td>
     <td>1301</td>
-    <td>3678</td>
+    <td>3679</td>
     <td><a href="https://github.com/marktext/marktext" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -874,8 +884,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/12724356?v=4" alt="go-gitea"  />
     go-gitea</td>
     <td>MIT</td>
-    <td>2706</td>
-    <td>5887</td>
+    <td>2707</td>
+    <td>5888</td>
     <td><a href="https://github.com/go-gitea/gitea" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -894,8 +904,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/10566080?v=4" alt="socketio"  />
     socketio</td>
     <td>MIT</td>
-    <td>206</td>
-    <td>10135</td>
+    <td>207</td>
+    <td>10136</td>
     <td><a href="https://github.com/socketio/socket.io" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -904,7 +914,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/97088?v=4" alt="mrdoob"  />
     mrdoob</td>
     <td>MIT</td>
-    <td>568</td>
+    <td>569</td>
     <td>35835</td>
     <td><a href="https://github.com/mrdoob/three.js" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -914,8 +924,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/121283862?v=4" alt="comfyanonymous"  />
     comfyanonymous</td>
     <td>GPL-3.0</td>
-    <td>2560</td>
-    <td>9014</td>
+    <td>2561</td>
+    <td>9015</td>
     <td><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -925,7 +935,7 @@
     nginx</td>
     <td>BSD-2-Clause</td>
     <td>234</td>
-    <td>7369</td>
+    <td>7370</td>
     <td><a href="https://github.com/nginx/nginx" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -955,7 +965,7 @@
     nodejs</td>
     <td>NOASSERTION</td>
     <td>2256</td>
-    <td>31987</td>
+    <td>31992</td>
     <td><a href="https://github.com/nodejs/node" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -964,7 +974,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/6128107?v=4" alt="vuejs"  />
     vuejs</td>
     <td>MIT</td>
-    <td>41</td>
+    <td>42</td>
     <td>1147</td>
     <td><a href="https://github.com/vuejs/pinia" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -1054,8 +1064,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/126759922?v=4" alt="cursor"  />
     cursor</td>
     <td>None</td>
-    <td>1855</td>
-    <td>1952</td>
+    <td>1859</td>
+    <td>1953</td>
     <td><a href="https://github.com/cursor/cursor" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1074,7 +1084,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/143521324?v=4" alt="open-compass"  />
     open-compass</td>
     <td>Apache-2.0</td>
-    <td>137</td>
+    <td>136</td>
     <td>424</td>
     <td><a href="https://github.com/open-compass/VLMEvalKit" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -1095,7 +1105,7 @@
     nuxt</td>
     <td>MIT</td>
     <td>817</td>
-    <td>5281</td>
+    <td>5283</td>
     <td><a href="https://github.com/nuxt/nuxt" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1105,8 +1115,18 @@
     eslint</td>
     <td>MIT</td>
     <td>88</td>
-    <td>4745</td>
+    <td>4744</td>
     <td><a href="https://github.com/eslint/eslint" target="_blank"><button>Click</button></a></td>
+  </tr>
+  <tr>
+    <td>promises-tests</td>
+    <td>
+    <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/2680116?v=4" alt="promises-aplus"  />
+    promises-aplus</td>
+    <td>NOASSERTION</td>
+    <td>26</td>
+    <td>110</td>
+    <td><a href="https://github.com/promises-aplus/promises-tests" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
     <td>public-apis</td>
@@ -1115,7 +1135,7 @@
     public-apis</td>
     <td>MIT</td>
     <td>502</td>
-    <td>37163</td>
+    <td>37169</td>
     <td><a href="https://github.com/public-apis/public-apis" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1125,7 +1145,7 @@
     chromium</td>
     <td>BSD-3-Clause</td>
     <td>121</td>
-    <td>7734</td>
+    <td>7736</td>
     <td><a href="https://github.com/chromium/chromium" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1134,8 +1154,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/5485517?v=4" alt="dcloudio"  />
     dcloudio</td>
     <td>Apache-2.0</td>
-    <td>727</td>
-    <td>3698</td>
+    <td>729</td>
+    <td>3699</td>
     <td><a href="https://github.com/dcloudio/uni-app" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1165,7 +1185,7 @@
     gradio-app</td>
     <td>Apache-2.0</td>
     <td>431</td>
-    <td>2960</td>
+    <td>2959</td>
     <td><a href="https://github.com/gradio-app/gradio" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1194,8 +1214,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/40133106?v=4" alt="docsifyjs"  />
     docsifyjs</td>
     <td>MIT</td>
-    <td>183</td>
-    <td>5782</td>
+    <td>187</td>
+    <td>5783</td>
     <td><a href="https://github.com/docsifyjs/docsify" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1225,7 +1245,7 @@
     mlabonne</td>
     <td>Apache-2.0</td>
     <td>64</td>
-    <td>6064</td>
+    <td>6066</td>
     <td><a href="https://github.com/mlabonne/llm-course" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1234,7 +1254,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/51735404?v=4" alt="milvus-io"  />
     milvus-io</td>
     <td>Apache-2.0</td>
-    <td>681</td>
+    <td>674</td>
     <td>3273</td>
     <td><a href="https://github.com/milvus-io/milvus" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -1254,7 +1274,7 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/184931308?v=4" alt="AlistGo"  />
     AlistGo</td>
     <td>AGPL-3.0</td>
-    <td>576</td>
+    <td>577</td>
     <td>8019</td>
     <td><a href="https://github.com/AlistGo/alist" target="_blank"><button>Click</button></a></td>
   </tr>
@@ -1305,7 +1325,7 @@
     microsoft</td>
     <td>MIT</td>
     <td>145</td>
-    <td>13586</td>
+    <td>13588</td>
     <td><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1315,7 +1335,7 @@
     microsoft</td>
     <td>MIT</td>
     <td>191</td>
-    <td>2701</td>
+    <td>2706</td>
     <td><a href="https://github.com/microsoft/graphrag" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1344,8 +1364,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="langchain-ai"  />
     langchain-ai</td>
     <td>MIT</td>
-    <td>280</td>
-    <td>17975</td>
+    <td>283</td>
+    <td>17976</td>
     <td><a href="https://github.com/langchain-ai/langchain" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1364,19 +1384,9 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/156354296?v=4" alt="fastapi"  />
     fastapi</td>
     <td>MIT</td>
-    <td>335</td>
-    <td>7545</td>
+    <td>336</td>
+    <td>7546</td>
     <td><a href="https://github.com/fastapi/fastapi" target="_blank"><button>Click</button></a></td>
-  </tr>
-  <tr>
-    <td>Tutorial</td>
-    <td>
-    <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/135356492?v=4" alt="InternLM"  />
-    InternLM</td>
-    <td>None</td>
-    <td>898</td>
-    <td>1569</td>
-    <td><a href="https://github.com/InternLM/Tutorial" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
     <td>hello-algo</td>
@@ -1385,7 +1395,7 @@
     krahets</td>
     <td>NOASSERTION</td>
     <td>31</td>
-    <td>14126</td>
+    <td>14127</td>
     <td><a href="https://github.com/krahets/hello-algo" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1394,8 +1404,8 @@
     <img loading="lazy" width="16" height="16" src="https://avatars.githubusercontent.com/u/9892522?v=4" alt="freeCodeCamp"  />
     freeCodeCamp</td>
     <td>BSD-3-Clause</td>
-    <td>311</td>
-    <td>40601</td>
+    <td>310</td>
+    <td>40605</td>
     <td><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
@@ -1405,7 +1415,7 @@
     justjavac</td>
     <td>GPL-3.0</td>
     <td>31</td>
-    <td>28344</td>
+    <td>28345</td>
     <td><a href="https://github.com/justjavac/free-programming-books-zh_CN" target="_blank"><button>Click</button></a></td>
   </tr>
   <tr>
